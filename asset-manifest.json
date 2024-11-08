@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/machinery-regulation/static/css/main.496c6bd8.css",
+    "main.js": "/machinery-regulation/static/js/main.56d1b170.js",
+    "static/js/453.152d3bf2.chunk.js": "/machinery-regulation/static/js/453.152d3bf2.chunk.js",
+    "index.html": "/machinery-regulation/index.html",
+    "main.496c6bd8.css.map": "/machinery-regulation/static/css/main.496c6bd8.css.map",
+    "main.56d1b170.js.map": "/machinery-regulation/static/js/main.56d1b170.js.map",
+    "453.152d3bf2.chunk.js.map": "/machinery-regulation/static/js/453.152d3bf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496c6bd8.css",
+    "static/js/main.56d1b170.js"
+  ]
+}
